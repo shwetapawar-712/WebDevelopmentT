@@ -21,8 +21,6 @@
     align-items: center;
     
 }
-
-/* Optional: Style the logo image */
 .logo {
     width:10%;
     height: 10%;
@@ -110,7 +108,7 @@
             font-family: cursive;
             font-size: 15px;
         }    
-     /* Order Now Button Styling */
+     
 .order-btn {
     background-color: #ff4444; /* Red color */
     color: #fff;
